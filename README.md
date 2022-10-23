@@ -7,7 +7,6 @@
 | OLED | SCL - GPIO22, SDA - GPIO21 |
 |DC Motor | Motor 1- GPIO25, GPIO33 Motor 2- GPIO26,GPIO27|
 |Servo Motor | Motor S1- GPIO12, Motor S2- GPIO2, Motor S3-GPIO15|
-|Ultra Sonic Sensor | Trigger-12, Echo-14 |
 |Bluetooth| RX-GPIO16, TX-GPIO17 |
 |DHT 11| GPIO32 |
 |Buzzer | GPIO14 |
@@ -15,7 +14,7 @@
 |RELAY | GPIO13 |
 |UART 0 | TX0- GPIO01, RX0- GPIO03 |
 | SD CARD | CS-GPIO5, SCK-GPIO18, MOSI-GPIO23, MISO-GPIO19 | 
+|POT | GPIN34 |
 |LDR | GPIN36 |
 |Thermister | GPIN39 |
-| Analog IN | GPIN34 |
 | PUSH BUTTON | GPIN35 |
