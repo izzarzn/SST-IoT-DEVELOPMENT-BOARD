@@ -13,6 +13,7 @@
 |Buzzer | GPIO14 |
 |RGB LED | GPIO4 |
 |RELAY | GPIO13 |
+|UART 0 | TX0- GPIO01, RX0- GPIO03 |
 |LDR | GPIN36 |
 |Thermister | GPIN39 |
 | Analog IN | GPIN34 |
