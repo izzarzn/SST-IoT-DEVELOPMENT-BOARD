@@ -1,4 +1,8 @@
-# SST-IOT-DEVELOPMENT-BOARD
+# SST TECHNOLOGIES
+
+![SST](https://user-images.githubusercontent.com/65058286/197776565-80655431-4bd2-4bc2-bd3e-e6115fc6a806.png)
+
+## SST-IOT-DEVELOPMENT-BOARD
 
 | **Components** | **PIN DESCRIPTION** |
 |:----:|:----:|
