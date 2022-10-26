@@ -1,10 +1,12 @@
 <h1 align="center">SST TECHNOLOGIES</h1> 
-
 <p align="center">
-<img width="350" height="220" src=https://user-images.githubusercontent.com/65058286/197776565-80655431-4bd2-4bc2-bd3e-e6115fc6a806.png">
+<img width="400" height="350" src="https://user-images.githubusercontent.com/65058286/197776565-80655431-4bd2-4bc2-bd3e-e6115fc6a806.png">
 </p>
+<h2 align="center"> SST-IOT-DEVELOPMENT-BOARD</h2>
 
-## SST-IOT-DEVELOPMENT-BOARD
+### About the Board
+The SST IoT Devlopment Board is
+
 
 | **Components** | **PIN DESCRIPTION** |
 |:----:|:----:|
@@ -27,3 +29,6 @@
 |ISOLATED IO | GPIO1 |
 | | GPIO2 GPIO3 GPIO4 GPIO5 GPIO12 GPIO13 GPIO14 GPIO15 GPIO16 GPIO17 GPIO18 GPIO19 GPIO23 GPIO25 GPIO26 GPIO27 GPIO32 GPIO33 GPIO34 GPIO36 GPIO39|
 | Analog Inputs (ADC) | GPIO4 GPIO2 GPIO15 GPIO13 GPIO12 GPIO14 GPIO27 GPIO26 GPIO25 GPIO33 GPIO32 GPIO35 GPIO34 GPIO39 GPIO36 |
+
+![stickers](https://user-images.githubusercontent.com/65058286/197930786-cc24cef3-addc-4c87-bc6e-610d0312d5bb.jpeg)
+
