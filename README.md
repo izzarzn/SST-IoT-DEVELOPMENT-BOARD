@@ -31,7 +31,7 @@
  -----------
 
 ### About the Board
-The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB and integrated with different sensors and Accuators, using which strong Embedded and IoT fundamentals are developed by deploying and implementing various projects involving cloud, ML and various other stacks.
+The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB and integrated with different Sensors and Accuators, using which strong Embedded and IoT fundamentals are developed by deploying and implementing various projects involving cloud, ML and various other industry stacks.
 
 --------------
 
@@ -91,6 +91,8 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 |12|Program for DHT11 Sensor using Blynk Server |
 |13|Program for SD Card Interface |
 
+*******
+
 |  **Program-1** |
 | :---- |
 |Program for On Board LED |
@@ -101,6 +103,7 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 |  **Program-2** |
 | :---- |
 |Program for RGB LED |
+|Libraries Required : [NeoPixel](Libraries/Adafruit_NeoPixel-master.zip)|
 |[Source Code](rgb1/rgb1.ino)|
 
   -----------
@@ -137,6 +140,7 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 | :---- |
 |Program for Bluetooth Interface|
 |[Setup Guide](https://github.com/izzarzn/RVCE-Manual/blob/8c35d088e2966602eee8186a694751c35ca45c0d/Bluetooth.md)|
+|Libraries Required : [SoftwareSerial](Libraries/espsoftwareserial-main.zip)|
 |[Source Code](BT-LED/BT-LED.ino)|
 
   -----------
@@ -144,6 +148,7 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 |  **Program-8** |
 | :---- |
 |Program for I2C OLED Interface|
+|Libraries Required : [U8g2](Libraries/U8g2.zip)|
 |[Source Code](HelloWorld-OLED/HelloWorld-OLED.ino)|
 
   -----------
@@ -151,6 +156,7 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 |  **Program-9** |
 | :---- |
 |Program for I2C LCD Interface|
+|Libraries Required : [Wire](Libraries/Wire.zip), [LiquidCristal](Libraries/LiquidCrystal_I2C.zip)|
 |[Source Code](HelloWorld_-_LCD/HelloWorld_-_LCD.ino)|
 
   -----------
@@ -158,6 +164,7 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 |  **Program-10** |
 | :---- |
 |Program for DHT11 Sensor using Serial Monitor |
+|Libraries Required : [Adafruit](Libraries/Adafruit_Sensor-master.zip), [DHT Sensor](Libraries/DHT-sensor-library-master.zip) |
 |[Source Code](DHT11-Serial/DHT11-Serial.ino)|
 
   -----------
@@ -165,6 +172,7 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 |  **Program-11** |
 | :---- |
 |Program for LED using Blynk Server |
+|Libraries Required : [Blynk](Libraries/blynk-library-master.zip) |
  [Click Here For Setup Guide](Blynk_Led.md)
 |[Source Code](LED-Blynk/LED-Blynk.ino)|
 
@@ -174,6 +182,7 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 | :---- |
 |Program for DHT11 Sensor using Blynk Server |
 [Click Here For Setup Guide](Blynk_DHT.md)
+|Libraries Required : [Blynk](Libraries/blynk-library-master.zip), [DHT Sensor](Libraries/DHT-sensor-library-master.zip) |
 |[Source Code](DHT11-Blynk/DHT11-Blynk.ino)|
 
   -----------
