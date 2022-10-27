@@ -73,11 +73,11 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 
 ---------
 
-### List of Experiments
+### List of Programs
 
-| **No** | **Experiment Name** | 
+| **No** | **Program Name** | 
 | :---: | :---       |
-|1|Program for On Board LED |
+|1|Program to Blink On Board LED |
 |2|Program for RGB LED |
 |3|Program for Toggle Switch|
 |4|Program for LDR Interface|
