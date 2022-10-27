@@ -165,7 +165,19 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 |Program for SD Card Interface |
 |[Source Code](SD_card/SD_card.ino)|
 
+--------------
 
+#### In Case of `PORT Error` Download and Install the following Drivers. 
+
+|**External Drivers**| **Links** |
+|:-------:|:-------: |
+|CP210x Driver | [Click Here](CP210x_Windows_Drivers.zip)|
+|CH340 Driver (Windows) | [Click Here](CH341SER.zip)|
+|CH340 Driver (Mac) |[Click Here](CH341SER-MAC.zip) 
+
+------------
+
+<h3 align = "center">Don't forget to ⭐ this repo<h3>
 
 
 
