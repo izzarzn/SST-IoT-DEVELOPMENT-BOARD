@@ -3,7 +3,7 @@
 ## Login to your Blynk Account
 
 ## Click On New Template and Click On Done
-![Screenshot 2022-02-04 at 11 28 26 PM](https://user-images.githubusercontent.com/65058286/152580840-2b32c7f5-5f9f-4dbe-8c52-582aca45ab39.png)
+![dht](https://user-images.githubusercontent.com/65058286/198358706-c68987db-677a-4eef-bf8e-a440fdc7eecb.png)
 
 ### Click On New Datatream in Datastreams
 ![Screenshot 2022-02-04 at 11 28 37 PM](https://user-images.githubusercontent.com/65058286/152580932-402a74b8-fdc1-4217-ae58-2d0c5ea70ab7.png)
