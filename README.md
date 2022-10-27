@@ -1,27 +1,32 @@
 <h2 align="center"> SST-IOT-DEVELOPMENT-BOARD</h2>
 
-### Arduino IDE
- [Click Here](https://www.arduino.cc/en/software)
+|Arduino IDE|
+|:------|
+ | [Click Here](https://www.arduino.cc/en/software) |
  
  ------
    
-### Arduino IDE Installation Guide 
-   [Click Here](Arduino_Installation.md)
+| Arduino IDE Installation Guide |
+|:------|
+|   [Click Here](Arduino_Installation.md)|
    
    -----------
    
-### ESP32 Setup Guide
-   [Click Here](Esp32.md)
+| ESP32 Setup Guide |
+|:------|
+ |  [Click Here](Esp32.md) |
     
   -------
   
-### Blynk Account Setup Guide
-   [Click Here](Blynk_Setup.md)
+| Blynk Account Setup Guide |
+|:------|
+ |  [Click Here](Blynk_Setup.md) |
    
    -------
 
-### Libraries Riquired 
-   [Click Here](Libraries)
+| Libraries Riquired |
+|:------|
+ |  [Click Here](Libraries) | 
 
 ### About the Board
 The SST IoT Devlopment Board is
