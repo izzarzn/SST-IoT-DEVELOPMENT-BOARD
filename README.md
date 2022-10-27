@@ -31,7 +31,7 @@
  -----------
 
 ### About the Board
-The SST IoT Devlopment Board is
+The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB and integrated with different sensors and Accuators, using which strong Embedded and IoT fundamentals are developed by deploying and implementing various projects involving cloud, ML and various other stacks.
 
 --------------
 
