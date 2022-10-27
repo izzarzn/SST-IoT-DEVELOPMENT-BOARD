@@ -53,16 +53,21 @@ The SST IoT Devlopment Board is
 | **Components** | **GPIN PIN DESCRIPTION** |
 |:----:|:----:|
 |POT | 34 |
+|PUSH BUTTON | 35 |
 |LDR | 36 |
 |Thermister | 39 |
-|PUSH BUTTON | 35 |
 
-| **Components** | **PIN DESCRIPTION** |
-|:----:|:----:|
-|:----:|:----:|:----:|:----:|
-|ISOLATED IO | GPIO1 |
-| | GPIO2 GPIO3 GPIO4 GPIO5 GPIO12 GPIO13 GPIO14 GPIO15 GPIO16 GPIO17 GPIO18 GPIO19 GPIO23 GPIO25 GPIO26 GPIO27 GPIO32 GPIO33 GPIO34 GPIO36 GPIO39|
-| Analog Inputs (ADC) | GPIO4 GPIO2 GPIO15 GPIO13 GPIO12 GPIO14 GPIO27 GPIO26 GPIO25 GPIO33 GPIO32 GPIO35 GPIO34 GPIO39 GPIO36 |
+|**ISOLATED IO** | GPIO1 | GPIO2 | GPIO3 | GPIO4 |GPIO5 |
+|:----:|:----:| :----- | :------| :----- | :--------- |
+| | GPIO12 |GPIO13 | GPIO14 |GPIO15 |GPIO16 |
+| |GPIO17 |GPIO18 |GPIO19 |GPIO23 |GPIO25 |
+| |GPIO26 |GPIO27 |GPIO32 |GPIO33 |GPIO34 |
+| |GPIO36 | GPIO39| - | - | -|
+
+| Analog Inputs (ADC) | GPIO4 |GPIO2 | GPIO15 |GPIO13 | GPIO12 |
+|:----:|:----:| :----- | :------| :----- | :--------- |
+| |GPIO14 |GPIO27 | GPIO26 | GPIO25 | GPIO33 |
+| |GPIO32 |GPIO35 |GPIO34 |GPIO39 | GPIO36 |
 
 
 
