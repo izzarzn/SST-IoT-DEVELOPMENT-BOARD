@@ -1,6 +1,6 @@
 <h2 align="center"> SST-IoT-DEVELOPMENT-BOARD</h2>
 
-|Arduino IDE|
+|Arduino IDE| 
 |:------|
  | [Click Here](https://www.arduino.cc/en/software) |
  
