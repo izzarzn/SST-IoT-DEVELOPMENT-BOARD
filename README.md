@@ -27,29 +27,35 @@
 | Libraries Riquired |
 |:------|
  |  [Click Here](Libraries) | 
+ 
+ -----------
 
 ### About the Board
 The SST IoT Devlopment Board is
 
+--------------
 
-| **Components** | **PIN DESCRIPTION** |
+| **Components** | **GPIO PIN DESCRIPTION** |
 |:----:|:----:|
-| ON Board LED | GPIO2 |
-| LCD | SCL - GPIO22, SDA - GPIO21 |
-| OLED | SCL - GPIO22, SDA - GPIO21 |
-|DC Motor | Motor 1- GPIO25, GPIO33 Motor 2- GPIO26,GPIO27|
-|Servo Motor | Motor S1- GPIO12, Motor S2- GPIO2, Motor S3-GPIO15|
-|Bluetooth| RX-GPIO16, TX-GPIO17 |
-|DHT 11| GPIO32 |
-|Buzzer | GPIO14 |
-|RGB LED | GPIO4 |
-|RELAY | GPIO13 |
-|UART 0 | TX0- GPIO01, RX0- GPIO03 |
-|SD CARD | CS-GPIO5, SCK-GPIO18, MOSI-GPIO23, MISO-GPIO19 | 
-|POT | GPIN34 |
-|LDR | GPIN36 |
-|Thermister | GPIN39 |
-|PUSH BUTTON | GPIN35 |
+| ON Board LED | O2 |
+| LCD | SCL - 22, SDA - 21 |
+| OLED | SCL - 22, SDA - 21 |
+|DC Motor | M1 - 25,33 M2 - 26,27|
+|Servo Motor | S1 - 12, S2 - 2, S3 - 15|
+|Bluetooth| RX - 16, TX - 17 |
+|DHT 11| 32 |
+|Buzzer | 14 |
+|RGB LED | 4 |
+|RELAY | 13 |
+|UART 0 | TX0 - 01, RX0 - 03 |
+|SD CARD | CS - 5, SCK - 18, MOSI - 23, MISO - 19 | 
+
+| **Components** | **GPIN PIN DESCRIPTION** |
+|:----:|:----:|
+|POT | 34 |
+|LDR | 36 |
+|Thermister | 39 |
+|PUSH BUTTON | 35 |
 
 | **Components** | **PIN DESCRIPTION** |
 |:----:|:----:|
