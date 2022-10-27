@@ -6,7 +6,7 @@
 ![](https://user-images.githubusercontent.com/65058286/152575640-bad80fed-1fd2-4010-aaf8-e4b666357052.png)
 
 ### Fill in the Template Details and Click on Done
-![Screenshot 2022-02-04 at 10 46 58 PM](https://user-images.githubusercontent.com/65058286/152576217-852fa93a-bbe8-4450-82e3-e0364f41297e.png)
+![Screenshot 2022-10-27 at 10 57 39 PM](https://user-images.githubusercontent.com/65058286/198358432-9f34a74a-5f57-4c31-a593-3cdc04011c29.png)
 
 ### Click On New Datatream in Datastreams
 ![Screenshot 2022-02-04 at 10 47 26 PM](https://user-images.githubusercontent.com/65058286/152576449-71ec83c9-e2ff-47c1-8de1-5e2bf46e8bac.png)
@@ -52,8 +52,6 @@
 
 ### You Can Control Your LED from Dashboard
 ![Screenshot 2022-02-04 at 11 51 07 PM](https://user-images.githubusercontent.com/65058286/152582327-133e253a-bc86-4f9c-bc2e-f3f97f150242.png)
-
-
 
 
 
