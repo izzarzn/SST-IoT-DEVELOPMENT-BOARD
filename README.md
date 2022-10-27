@@ -11,7 +11,7 @@
    -----------
    
 ### ESP32 Setup Guide
-   [Click Here](Esp8266.md)
+   [Click Here](Esp32.md)
     
   -------
   
