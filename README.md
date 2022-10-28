@@ -205,10 +205,9 @@ The SST IoT Devlopment Board is a Node MCU ESP-32 Module mounted on a custom PCB
 ------------
 
 <h3 align = "center">Don't forget to ⭐ this repo<h3>
-
-
-<h2 align = "center"> 😻 BE INSPIRED, BUT DONT COPY ! FORK IT !!😻 <h2>
-
+<p align="right"
+   <img width="350" height="220" src="https://user-images.githubusercontent.com/65058286/198452596-50c4c065-0f09-4fd9-81ba-2720155429bb.png">
+ <h2 align = "center"> 😻 BE INSPIRED, BUT DONT COPY ! FORK IT !!😻 <h2>
+ </p>
 
 ------------
-
