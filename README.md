@@ -217,11 +217,11 @@ The **SST IoT Devlopment Board** is a ESP-32 Module mounted on a custom PCB and 
 
 #### In Case of `PORT Error` Download and Install the following Drivers. 
 
-|**External Drivers**| **Links** |
-|:-------:|:-------: |
-|CP210x Driver | [Click Here](CP210x_Windows_Drivers.zip)|
-|CH340 Driver (Windows) | [Click Here](CH341SER.zip)|
-|CH340 Driver (Mac) |[Click Here](CH341SER-MAC.zip) 
+|**External Drivers**| **Links** | **MC's**
+|:-------:|:-------: | :--------:
+|CP210x Driver | [Click Here](CP210x_Windows_Drivers.zip)| ESP8266 & ESP32 |
+|CH340 Driver (Windows) | [Click Here](CH341SER.zip)| Arduino |
+|CH340 Driver (Mac) |[Click Here](CH341SER-MAC.zip) | Arduino | 
 
 ------------
 
