@@ -41,7 +41,7 @@ The SST IoT Devlopment Board is a ESP-32 Module mounted on a custom PCB and inte
 - It has Wi-Fi and bluetooth built-in.
 - It runs 32 bit programs.
 - The clock frequency can go up to 240MHz and it has a 512 kB RAM.
-- This particular board has 30 or 36 pins, 15 in each row.
+- This particular board has 30 pins, 15 in each row.
 - It also has wide variety of peripherals available, like: capacitive touch, ADCs, DACs, UART, SPI, I2C and much more.
 - It comes with built-in hall effect sensor and built-in temperature sensor.
 
