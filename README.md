@@ -116,7 +116,6 @@ The **SST IoT Devlopment Board** is a ESP-32 Module mounted on a custom PCB and 
 |10|Program for DHT11 Sensor using Serial Monitor |
 |11|Program for LED using Blynk Server |
 |12|Program for DHT11 Sensor using Blynk Server |
-|13|Program for SD Card Interface |
 
 *******
 
@@ -212,12 +211,7 @@ The **SST IoT Devlopment Board** is a ESP-32 Module mounted on a custom PCB and 
 |Libraries Required : [Blynk](Libraries/blynk-library-master.zip), [DHT Sensor](Libraries/DHT-sensor-library-master.zip) |
 |[Source Code](DHT11-Blynk/DHT11-Blynk.ino)|
 
-  -----------
 
-|  **Program-13** |
-| :---- |
-|Program for SD Card Interface |
-|[Source Code](SD_card/SD_card.ino)|
 
 --------------
 
