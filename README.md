@@ -56,7 +56,7 @@ The **SST IoT Devlopment Board** is a ESP-32 Module mounted on a custom PCB and 
 | DHT 11| 32 |
 | DC Motor | M1 - 25/33, M2 - 26/27|
 | LCD | SCL - 22, SDA - 21 |
-| ON Board LED | O2 |
+| ON Board LED | 02 |
 | OLED | SCL - 22, SDA - 21 |
 | RGB LED | 4 |
 | RELAY | 13 |
