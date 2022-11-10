@@ -71,13 +71,6 @@ The **SST IoT Devlopment Board** is a ESP-32 Module mounted on a custom PCB and 
 |LDR | 36 |
 |Thermister | 39 |
 
-|**ISOLATED IO PINS** | GPIO1 | GPIO2 | GPIO3 | GPIO4 |GPIO5 |
-|:----:|:----:| :-----: | :------: | :-----: | :---------: |
-| | GPIO12 |GPIO13 | GPIO14 |GPIO15 |GPIO16 |
-| |GPIO17 |GPIO18 |GPIO19 |GPIO23 |GPIO25 |
-| |GPIO26 |GPIO27 |GPIO32 |GPIO33 |GPIO34 |
-| |GPIO36 | GPIO39|  |  | |
-
 |**ISOLATED IO PINS** | **J19** | **J14** | 
 |:----:|:----:| :-----: | 
 | | GPIO18 |GPIO3| 
