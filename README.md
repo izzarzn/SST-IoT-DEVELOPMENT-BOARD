@@ -209,7 +209,7 @@ The **SST IoT Devlopment Board** is a ESP-32 Module mounted on a custom PCB and 
 |  **Program-13** |
 | :---- |
 |ESP32 to Store Data to FireBase Database |
-|Libraries Required : [Blynk](Libraries/Firebase-ESP-Client-main.zip) |
+|Libraries Required : [FireBase-Client](Libraries/Firebase-ESP-Client-main.zip) |
 |[Source Code](Firebase/Store-Data.ino)|
 
   -----------
@@ -217,7 +217,7 @@ The **SST IoT Devlopment Board** is a ESP-32 Module mounted on a custom PCB and 
 |  **Program-14** |
 | :---- |
 |ESP32 Program for Monitoring LDR Values using FireBase |
-|Libraries Required : [Blynk](Libraries/Firebase-ESP-Client-main.zip) |
+|Libraries Required : [FireBase-Client](Libraries/Firebase-ESP-Client-main.zip) |
 |[Source Code](Firebase/LDR.ino)|
 
   ----------- 
@@ -225,7 +225,7 @@ The **SST IoT Devlopment Board** is a ESP-32 Module mounted on a custom PCB and 
 |  **Program-15** |
 | :---- |
 |ESP32 Program to Control Buzzer using FireBase  |
-|Libraries Required : [Blynk](Libraries/Firebase-ESP-Client-main.zip) |
+|Libraries Required : [FireBase-Client](Libraries/Firebase-ESP-Client-main.zip) |
 |[Source Code](Firebase/Firebase_Buzzer.ino)|
 
 
